@@ -3,3 +3,6 @@ git 練習用
 
 変更
 削除
+
+
+git status
