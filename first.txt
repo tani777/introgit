@@ -6,3 +6,7 @@ git 練習用
 
 
 git status
+
+
+diff
+
